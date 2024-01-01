@@ -1,0 +1,63 @@
+* {
+    margin: 0px;
+    padding: 0px;
+
+}
+
+body {
+    background-color: black;
+}
+
+.a {
+    border: 1px solid white;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    height: 79vh;
+    border-radius: 10px;
+    background-color: rgba(238, 234, 234, 0.95)
+}
+
+.b {
+    margin: 5%;
+}
+
+.c {
+    height: 6vh;
+    width: 100%;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.d {
+    color: white;
+    background-color: green;
+    height: 6vh;
+    width: 40%;
+    border-radius: 10px;
+    margin-left: 30%;
+}
+
+.e {
+    margin-left: 30%;
+    font-size: 25px;
+}
+
+a {
+    font-size: 25px;
+}
+
+.f {
+    margin-left: 40%;
+}
+
+.z {
+    margin-left: 30%;
+}
+
+#j {
+    font-size: xx-large;
+    padding-left: 10px;
+}
